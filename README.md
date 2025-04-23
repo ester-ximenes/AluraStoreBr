@@ -29,4 +29,4 @@ Através das análises realizadas, foi possível identificar que a **Loja 3** ap
 
 ## Conclusão
 
-Recomenda-se a **venda da Loja 3**, por ser a mais valiosa em termos de reputação e potencial de mercado, com equilíbrio entre custo, satisfação do cliente e vendas.
+Recomenda-se a **venda da Loja 3**,  por ser a mais valiosa em termos de reputação e potencial de mercado, com equilíbrio entre custo, satisfação do cliente e vendas.
